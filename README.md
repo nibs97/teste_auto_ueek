@@ -11,7 +11,7 @@ Este projeto contém um teste de interface web automatizado para a funcionalidad
 
 ## Caso de Teste Automatizado
 
-* **CT-001: Validar login de administrador com credenciais válidas**
+* **CT-003.001: Validar login de administrador com credenciais válidas**
     * **Objetivo:** Verificar se o login é bem-sucedido ao usar credenciais corretas.
     * **Script:** `src/test/java/br/com/meus/testes/LoginAdminTest.java`
 
